@@ -1,0 +1,28 @@
+Data for the alpha-2A adrenergic receptor docking screens
+
+Screen1: ZINC15 fragments
+CSV files of scored molecules with ZINC ID, DOCK score, SMILES
+screen1_fragments_id_score_smiles.1.tar.gz
+screen1_fragments_id_score_smiles.2.tar.gz
+screen1_fragments_id_score_smiles.3.tar.gz
+screen1_fragments_id_score_smiles.4.tar.gz
+
+Screen2: ZINC15 fragments
+CSV files of scored molecules with ZINC ID, DOCK score, SMILES
+screen2_fragments_id_score_smiles.1.tar.gz
+screen2_fragments_id_score_smiles.2.tar.gz
+screen2_fragments_id_score_smiles.3.tar.gz
+screen2_fragments_id_score_smiles.4.tar.gz
+screen2_fragments_id_score_smiles.5.tar.gz
+
+Screen3: ZINC15 lead-like
+CSV files of scored molecules with ZINC ID, DOCK score, SMILES
+screen3_leadlike_id_score_smiles.1.tar.gz
+screen3_leadlike_id_score_smiles.2.tar.gz
+screen3_leadlike_id_score_smiles.3.tar.gz
+screen3_leadlike_id_score_smiles.4.tar.gz
+screen3_leadlike_id_score_smiles.5.tar.gz
+screen3_leadlike_id_score_smiles.6.tar.gz
+screen3_leadlike_id_score_smiles.7.tar.gz
+screen3_leadlike_id_score_smiles.8.tar.gz
+screen3_leadlike_id_score_smiles.9.tar.gz
